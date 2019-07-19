@@ -1,0 +1,5 @@
+git push -u origin master
+.terraform.tfstate.lock.info
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
