@@ -1,3 +1,4 @@
+#!/bin/bash
 set -x
 sleep 2m
 apt-get update -y

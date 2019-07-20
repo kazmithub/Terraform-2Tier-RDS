@@ -22,7 +22,6 @@ variable "namePrefix" {
 }
 
 variable "endpoint" {
-  
 }
 variable "MyVPC" {
   
